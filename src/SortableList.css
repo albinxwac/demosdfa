@@ -1,0 +1,9 @@
+.dnd-container {
+    max-width: 400px;
+    margin: 20px auto;
+    font-family: Arial, sans-serif;
+  }
+  
+  .dnd-container h2 {
+    text-align: center;
+  }
